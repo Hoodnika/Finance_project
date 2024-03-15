@@ -1,0 +1,20 @@
+[tool.poetry]
+name = "finance-project"
+version = "0.1.0"
+description = ""
+authors = ["Hoodnika <Hoodnika213@gmail.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.11"
+django = "^5.0.3"
+pillow = "^10.2.0"
+psycopg2 = "^2.9.9"
+ipython = "^8.22.2"
+requests = "^2.31.0"
+tinkoff-investments = "^0.2.0b96"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"

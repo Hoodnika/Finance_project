@@ -1,0 +1,28 @@
+h1 a {
+    color: #FCA205;
+    font-family: 'Lobster';
+    font-size: 150px
+}
+body {
+  font-size: 150px;
+}
+.index_button{
+    position: relative;
+    width: 25px;
+    height:25px
+    border: solid 1px black;
+    margin-top:25px;
+    margin-left: 25px;
+
+
+}
+.text{
+text-align: center;
+color:#000000;
+
+}
+.custom {
+    color:#007bff;
+    background:#000000;
+    font-size:20px;
+}
